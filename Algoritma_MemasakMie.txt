@@ -1,0 +1,14 @@
+Algoritma_memasak mie
+
+1. Mulai
+2. Siapkan panci dan air.
+3. Nyalakan kompor dan letakkan panci di atasnya.
+4. Tambahkan air ke dalam panci sesuai dengan jumlah air yang dibutuhkan untuk merebus mie instan.
+5. Nyalakan kompor dengan api sedang atau tinggi dan tunggu air mendidih.
+6. Ketika air sudah mendidih, buka bungkus mie instan dan masukkan mie ke dalam panci berisi air mendidih.
+7. Biarkan mie merebus selama beberapa menit sesuai petunjuk pada kemasan mie instan (biasanya sekitar 3-5 menit).
+8. Setelah mie matang, matikan kompor.
+9. Siapkan mangkuk dan sendok.
+10. Tuang mie beserta kuahnya ke dalam mangkuk.
+11. Mie instan siap disajikan.
+12. Selesai
